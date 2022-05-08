@@ -1,0 +1,36 @@
+img {
+  max-width: 100%;
+}
+
+body {
+  background-color: #222831;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: groove;
+  border-color: grey;
+  border-width: 5px;
+  height: 2px;
+}
+
+h1 {
+  color: #EEEEEE;
+}
+
+p {
+  color: #EEEEEE;
+}
+
+ul {
+  color: #EEEEEE;
+}
+
+ol {
+  color: #EEEEEE;
+}
+
+a {
+  color: #EEEEEE;
+}
