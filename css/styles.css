@@ -3,7 +3,7 @@ img {
 }
 
 body {
-  background-color: #222831;
+  background-color: #2B2E4A;
 }
 
 hr {
@@ -16,6 +16,10 @@ hr {
 }
 
 h1 {
+  color: #EEEEEE;
+}
+
+h3 {
   color: #EEEEEE;
 }
 
@@ -32,5 +36,9 @@ ol {
 }
 
 a {
+  color: #EEEEEE;
+}
+
+label {
   color: #EEEEEE;
 }
