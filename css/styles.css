@@ -1,6 +1,27 @@
+/*
+
+****************CLASS SELECTORS***************
+
+*/
+
+.index {
+  background-color: #222831;
+}
+
+.strategy {
+  background-color: #222831;
+}
+
+
+/*
+
+***************TAG SELECTORS***************
+
+*/
 img {
   max-width: 100%;
 }
+
 
 body {
   background-color: #2B2E4A;
