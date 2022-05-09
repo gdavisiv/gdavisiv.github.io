@@ -15,6 +15,16 @@
 
 /*
 
+**********ID SELECTORS - more specific - Only use ONCE************
+
+*/
+
+#heading {
+  background-color: #2B2E4A;
+}
+
+/*
+
 ***************TAG SELECTORS***************
 
 */
