@@ -20,6 +20,12 @@
   transform: translate(-50%, -50%);
 }
 
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
 /*
 
 *******ID SELECTORS - more specific - Only use ONCE per page*********
@@ -37,13 +43,11 @@
 */
 img {
   max-width: 100%;
-  position: relative;
 }
 
 
 body {
   background-color: #2B2E4A;
-  text-align: center;
 }
 
 hr {
