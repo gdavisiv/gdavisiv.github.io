@@ -26,6 +26,22 @@
   color: white;
 }
 
+.top-container {
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
+
+.middle-container {
+  width: 100%;
+  height: 100px;
+}
+
+.bottom-container {
+  width: 100%;
+  height: 100px;
+}
+
 /*
 
 *******ID SELECTORS - more specific - Only use ONCE per page*********
@@ -85,19 +101,4 @@ a {
 
 label {
   color: #EEEEEE;
-}
-
-.top-container {
-    width: 100%;
-    height: 100px;
-}
-
-.middle-container {
-  width: 100%;
-  height: 100px;
-}
-
-.bottom-container {
-  width: 100%;
-  height: 100px;
 }
